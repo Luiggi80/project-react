@@ -1,18 +1,17 @@
+.navBar ul {
+background-color: #a7a7a7;
+padding: 10px;
+}
+
 .navBar ul li {
     display: inline;
     justify-content: space-between;
     width: 100vw;
+    margin: 10px;
 }
 
 
 .navBar li a {
     display: inline;
     text-decoration: none;
-
-    padding: 10px;
-  }
-
-.navBar p {
-    color: #ff006a;
-    font-size: 2rem;
 }
